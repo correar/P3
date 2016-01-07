@@ -1,4 +1,4 @@
-Yii Framework
+Yii Framework versão Yii-1.1 http://www.yiiframework.com/download/
 configurar o banco de dados no arquivo p3\protected\config\database.php
 estão cadastrados 2 usuários para acessar o site:
 login: rodrigo, senha: rodrigo
