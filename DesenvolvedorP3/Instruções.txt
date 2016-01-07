@@ -1,0 +1,7 @@
+Yii Framework
+configurar o banco de dados no arquivo p3\protected\config\database.php
+estão cadastrados 2 usuários para acessar o site:
+login: rodrigo, senha: rodrigo
+login: teste, senha: teste
+
+O log está sendo salvo em p3\protected\runtime\Application.log
